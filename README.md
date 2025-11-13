@@ -148,16 +148,6 @@ Here's a complete example of the `urls.json` file with real LinkedIn profiles:
     "https://www.linkedin.com/in/jeffweiner08",
     "https://www.linkedin.com/in/reidhoffman",
     "https://www.linkedin.com/in/williamhgates",
-    "https://www.linkedin.com/in/melindagates",
-    "https://www.linkedin.com/in/elonmusk",
-    "https://www.linkedin.com/in/tim-cook-0b5ba",
-    "https://www.linkedin.com/in/sherylsandberg",
-    "https://www.linkedin.com/in/daniel-ek-92b77b",
-    "https://www.linkedin.com/in/patrickcollison",
-    "https://www.linkedin.com/in/brianchesky",
-    "https://www.linkedin.com/in/drew-houston-ba8a2b24",
-    "https://www.linkedin.com/in/jessicachen",
-    "https://www.linkedin.com/in/katrina-lake"
   ]
 }
 ```
