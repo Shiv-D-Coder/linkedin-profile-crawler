@@ -10,8 +10,8 @@ from selenium.common.exceptions import NoSuchElementException
 from object import Experience, Education, Scraper
 
 # === HARDCODED CREDENTIALS ===
-EMAIL = "tisali1891@burangir.com"
-PASSWORD = "M@sters@123"
+EMAIL = ""
+PASSWORD = ""
 
 # === Load URLs from urls.json ===
 def load_urls_from_json():
